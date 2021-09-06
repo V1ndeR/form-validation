@@ -1,0 +1,11 @@
+.map {
+    width: 100%;
+    height: 800px;
+    margin: 0 auto;
+    padding-bottom: 220px;
+    padding-top: 88px;
+}
+
+.contact-info {
+    padding-top: 60px;
+}

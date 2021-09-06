@@ -1,0 +1,20 @@
+.contacts-container {
+    display: flex;
+    height: 320px;
+    justify-content: center;
+    margin: 0 auto;
+    background: #f6f8f9;
+}
+
+.contacts-container ul li {
+    padding-bottom: 10px;
+}
+
+
+.contacts-container ul li:first-child{
+    font-weight: bold;
+}
+
+.contacts-ul {
+    margin: 100px 0 100px 0;
+}

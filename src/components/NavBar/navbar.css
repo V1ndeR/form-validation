@@ -1,0 +1,72 @@
+.main_header {
+    width: 100%;
+    height: 88px;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(50, 53, 58, 0.8);
+    color: #aaaaab;
+    position: fixed;
+    z-index: 101;
+}
+
+.main_nav {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 88px;
+    flex: 0 0 70px;
+    background-color: #ffff;
+}
+
+.site_nav {
+    margin: 0 auto;
+    padding: 0;
+    align-items: center;
+    display: flex;
+}
+
+.user_nav {
+    align-items: center;
+    display: flex;
+}
+
+.nav-city {
+    padding-right: 10px;
+    padding-left: 0;
+}
+
+.nav-weather {
+    padding: 5px;
+}
+
+.weather-icon {
+    font-size: 40px;
+}
+
+.weather-temp {
+    font-size: 20px;
+}
+
+.cloud-icon {
+    font-size: 12px;
+}
+
+.nav-menu {
+    padding: 0;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.nav-btn {
+    width: 250px;
+    height: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    color: #ffff;
+}
